@@ -1,0 +1,27 @@
+{
+  "BACKGROUND_COLOR" = "Couleur de l'arrière plan";
+  "HEADER_TEXT_COLOR" = "Couleur du texte de l'en-tête";
+  "CONTENT_TEXT_COLOR" = "Couleur du texte du contenu";
+  "NOTIFICATION_OPACITY" = "Opacité de la notification";
+  "CORNER_RADIUS" = "Rayon de l'arrondi des angles";
+  "CENTER_CONTENTS" = "Contenu du centre";
+  "ICON_CORNER_RADIUS" = "Rayon de l'arrondi de l'icône (expérimental)";
+
+  "STYLE" = "Thème";
+  "MODERN" = "Moderne";
+  "MINIMALIST" = "Minimaliste";
+  "HIDE_ICON" = "Masquer les icônes";
+  "HIDE_X" = "Masquer le bouton de fermeture";
+  "HIDE_APP_NAME" = "Masquer le nom de l'application";
+
+  "DEFAULT" = "Défaut";
+  "DYNAMIC" = "Dynamique";
+  "CUSTOM" = "Personnalisé";
+  "CUSTOM_COLOR" = "Couleur personnalisée";
+
+  "BACKGROUND_BLUR_MODE" = "Flou d'arrière-plan";
+  "DARK" = "Sombre";
+  "LIGHT" = "Clair";
+  "BACKGROUND_BLUR_OPACITY" = "Opacité du flou d'arrière-plan";
+  "BACKGROUND_BLUR_COLOR_OPACITY" = "Transparence de la couleur du flou d'arrière-plan";
+}
