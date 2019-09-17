@@ -1,5 +1,5 @@
 {
-  "DISABLE_IDLE_TIMER" = "Désactiver l'Extinction automatique de l'écran vérouillé";
+  "DISABLE_IDLE_TIMER" = "Désactiver l'extinction automatique de l'écran vérouillé";
   "EXPERIMENTAL_COLORS" = "Calcul des couleurs expérimental";
   "DEFAULT" = "Par Défaut";
   "EXPERIMENTAL" = "Expérimental";
