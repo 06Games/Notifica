@@ -13,18 +13,18 @@
 
   "RESPRING" = "Respring";
   "RESRPING_NEEDED" = "VOUS DEVREZ RECHARGER LA SPRINGBOARD DE VOTRE APPAREIL APRÈS L’ÉDITION D'UN DE CES PARAMÈTRES.";
-  "ARE_YOU_SURE_TO_RESET_PREFS" = "Êtes-vous sûr de vouloir réinitialiser toutes vos préférences? Cette action est définitive et ne peut pas être annulé.";
+  "ARE_YOU_SURE_TO_RESET_PREFS" = "Êtes-vous sûr de vouloir réinitialiser toutes vos préférences? Cette action est définitive et ne peut pas être annulée.";
   "OK" = "OK";
   "CANCEL" = "Annuler";
   "RESET_PREFS" = "Restaurer les paramètres par défaut et respring";
   "SOURCE_CODE" = "Code source";
-  "DONATE_TO_NEPETA" = "Faire un don àNepeta";
-  "SUPPORT_ME" = "Me soutenir!";
+  "DONATE_TO_NEPETA" = "Faire un don à Nepeta";
+  "SUPPORT_ME" = "Me soutenir !";
   "TEST_NOTIFICATIONS" = "Notifications d'essai";
   "TEST_BANNER" = "Bannière d'essai";
   "SAVE_SETTINGS" = "Enregistrer les paramètres actuels";
   "SHARE_SETTINGS" = "Partager les paramètres actuels";
-  "IMPORT_SETTINGS" = "Importer un préréglage partagé";
+  "IMPORT_SETTINGS" = "Importer un paramètrage";
   "COPY_N_TO_B" = "Copier: Notifications -> Bannières";
   "COPY_B_TO_N" = "Copier: Bannières -> Notifications";
 }

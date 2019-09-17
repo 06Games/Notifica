@@ -1,10 +1,10 @@
 {
-  "DISABLE_IDLE_TIMER" = "Désactiver le verrouillage automatique sur l'écran de déverrouillage";
+  "DISABLE_IDLE_TIMER" = "Désactiver l'Extinction automatique de l'écran vérouillé";
   "EXPERIMENTAL_COLORS" = "Calcul des couleurs expérimental";
-  "DEFAULT" = "Défaut";
+  "DEFAULT" = "Par Défaut";
   "EXPERIMENTAL" = "Expérimental";
   "AXON" = "Axon";
-  "HD_ICONS" = "HD/Icônes personnalisées";
-  "COLORIZE_SECTION" = "Coloriser les boutons de la section iOS 12";
+  "HD_ICONS" = "Icônes HD/Personnalisées";
+  "COLORIZE_SECTION" = "Colorer les boutons de la section iOS 12";
   "DISABLE_ICON_SHADOW" = "Désactiver l'ombre de l'icône";
 }

@@ -1,6 +1,6 @@
 {
   "HIDE_NO_OLDER" = "Masquer \"Aucune ancienne notification\"";
-  "IDLE_TIMER" = "Extinction automatique de l'écran vérouillé";
+  "IDLE_TIMER" = "Temps avant l'extinction automatique de l'écran vérouillé";
   "VERTICAL_OFFSET" = "Décalage vertical";
   "VERTICAL_OFFSET_NOTIFICATIONS" = "Décalage vertical: Notifications";
   "VERTICAL_OFFSET_NOW_PLAYING" = "Décalage vertical: En cours de lecture";

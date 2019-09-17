@@ -14,7 +14,7 @@
   "HIDE_X" = "Masquer le bouton de fermeture";
   "HIDE_APP_NAME" = "Masquer le nom de l'application";
 
-  "DEFAULT" = "Défaut";
+  "DEFAULT" = "Par Défaut";
   "DYNAMIC" = "Dynamique";
   "CUSTOM" = "Personnalisé";
   "CUSTOM_COLOR" = "Couleur personnalisée";
@@ -23,5 +23,5 @@
   "DARK" = "Sombre";
   "LIGHT" = "Clair";
   "BACKGROUND_BLUR_OPACITY" = "Opacité du flou d'arrière-plan";
-  "BACKGROUND_BLUR_COLOR_OPACITY" = "Transparence de la couleur du flou d'arrière-plan";
+  "BACKGROUND_BLUR_COLOR_OPACITY" = "Transparence du flou d'arrière-plan";
 }
